@@ -16,7 +16,7 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-color: #2ee0c2;
     padding: 20px;
     font-family: Arial;
   }
@@ -46,16 +46,16 @@
 
 
   .btn {
-    border: none;
+    border-style: inset
     outline: none;
-    padding: 12px 16px;
-    background-color: white;
     cursor: pointer;
     margin-right: 20px;
+     padding-left:40px;
+     padding-right:40px;
   }
   
   nav {
-    background-color: #272b30;
+    background-color:e7d50d;
     padding: 10px;
     border-radius: 10px;
   }
@@ -69,4 +69,7 @@
     border-radius: 10px;
   
   }
+
+
+
   
