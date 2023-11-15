@@ -16,13 +16,12 @@
   }
   
   body {
-    background-color: #2ee0c2;
     padding: 20px;
     font-family: Arial;
   }
   
   .heading{
-    background-color: #373738;
+    background-color: #4d92db;
     color: #efeff2;
     padding: 1em;
   }
@@ -38,7 +37,7 @@
   }
   
   .content {
-    background-color: #272b30;
+    background-color: #2d7ee1;
     margin: 20px;
     padding: 10px;
     color: white;
@@ -46,7 +45,6 @@
 
 
   .btn {
-    border-style: inset
     outline: none;
     cursor: pointer;
     margin-right: 20px;
@@ -55,20 +53,24 @@
   }
   
   nav {
-    background-color:e7d50d;
     padding: 10px;
     border-radius: 10px;
+    text-align: center;
+     
   }
   
   footer {
-    background-color: #272b30;
+    background-color: #2d7ee1;
     padding: 20px;
     color: white;
     text-align: center;
     font-size: 1em;
     border-radius: 10px;
-  
   }
+
+ p {text-align:center;}
+  
+  
 
 
 
