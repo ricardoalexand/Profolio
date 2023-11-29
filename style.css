@@ -68,10 +68,14 @@
     border-radius: 10px;
   }
 
- p {text-align:center;}
+ p {text-align:center;
+    font-family: 'Genos', sans-serif;
+    font-size: 32px;
+   }
   
-  
+button:hover {
+    background-color: #a4c2d5;
+}
 
 
 
-  
