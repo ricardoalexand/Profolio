@@ -1,12 +1,18 @@
 
-.contentFour{
-  text-align: center; 
+.contentFour {
+  text-align: center;
   color: #ffffff;
- }
-
-li {
-  color: #ffffff;
+  font-family: 'Nova Square', sans-serif;
 }
 
 
+h2 {color:#719bfe;}
 
+footer {
+  background-color: #2d7ee1;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-size: 1em;
+  border-radius: 10px;
+}
