@@ -1,0 +1,37 @@
+{
+  "facts": [
+    {
+      "id": "1",
+      "detail": "My favorite color is blue"
+    },
+    {
+      "id": "2",
+      "detail": "Had a 3.9+ GPA my whole life"
+    },
+    {
+      "id": "3",
+      "detail": "I'm a good creative writer."
+    },
+    {
+      "id": "4",
+      "detail": "I love waterparks and go every summer."
+    },
+    {
+      "id": "5",
+      "detail": "Im alergic to all seafood."
+    },
+    {
+      "id": "6",
+      "detail": "My favorite movie is I Am Number Four."
+    },
+    {
+      "id": "7",
+      "detail": "Serena Williams and I were both born on September 26th."
+    },
+    {
+      "id": "8",
+      "detail": "My favorite podcast right now is on YouTube called Dropouts Podcast."
+    }
+   
+  ]
+}
